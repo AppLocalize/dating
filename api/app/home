@@ -1,0 +1,74 @@
+{
+	"code": 200,
+	"data": {
+		"models": [{
+			"style": 1,
+			"title": "Editors' Choice",
+			"color": "#02C7BA",
+			"story": {
+				"id": 451805583888642,
+				"cover": "https://int-picturebook.cdn.ipalfish.com/picturebook/general/app/df/91/ba18c3e2f42a0838c20730b88e58",
+				"title": "下雨了吗",
+				"desc": "青蛙问：“下雨了吗？”老鼠问：“下雨了吗？”兔子问：“下雨了吗？”……每个小动物都感觉下雨了，事实上真的下雨了吗？让我们翻开绘本一探究竟吧！",
+				"isPro": false
+			}
+		}, {
+			"style": 2,
+			"title": "Good Habits",
+			"route": "/flutter?url=/picbookThemeDetail\u0026themeid=465221814823180",
+			"stories": [{
+				"id": 453956854475010,
+				"cover": "https://int-picturebook.cdn.ipalfish.com/picturebook/general/app/9f/94/c32647f5ccf715a1f009ea3f535c",
+				"isPro": true,
+				"level": "L4",
+				"title": "光盘小能手"
+			}, {
+				"id": 453958106943754,
+				"cover": "https://int-picturebook.cdn.ipalfish.com/picturebook/general/app/b1/0e/f50f21aff49924096ab5f773eb39",
+				"isPro": false,
+				"level": "L5",
+				"title": "Litter in the Bin"
+			}, {
+				"id": 453958390411530,
+				"cover": "https://int-picturebook.cdn.ipalfish.com/picturebook/general/app/21/a4/5bbce77bb2a9fa2fc93aa67373b2",
+				"isPro": false,
+				"level": "L1",
+				"title": "Time to Sleep"
+			}]
+		}, {
+			"style": 1,
+			"title": "Editors' Choice",
+			"color": "#02C7BA",
+			"story": {
+				"id": 451805583888642,
+				"cover": "https://int-picturebook.cdn.ipalfish.com/picturebook/general/app/df/91/ba18c3e2f42a0838c20730b88e58",
+				"title": "下雨了吗",
+				"desc": "青蛙问：“下雨了吗？”老鼠问：“下雨了吗？”兔子问：“下雨了吗？”……每个小动物都感觉下雨了，事实上真的下雨了吗？让我们翻开绘本一探究竟吧！",
+				"isPro": false
+			}
+		}, {
+			"style": 2,
+			"title": "Good Habits",
+			"route": "/flutter?url=/picbookThemeDetail\u0026themeid=465221814823180",
+			"stories": [{
+				"id": 453956854475010,
+				"cover": "https://int-picturebook.cdn.ipalfish.com/picturebook/general/app/9f/94/c32647f5ccf715a1f009ea3f535c",
+				"isPro": true,
+				"level": "L4",
+				"title": "光盘小能手"
+			}, {
+				"id": 453958106943754,
+				"cover": "https://int-picturebook.cdn.ipalfish.com/picturebook/general/app/b1/0e/f50f21aff49924096ab5f773eb39",
+				"isPro": false,
+				"level": "L5",
+				"title": "Litter in the Bin"
+			}, {
+				"id": 453958390411530,
+				"cover": "https://int-picturebook.cdn.ipalfish.com/picturebook/general/app/21/a4/5bbce77bb2a9fa2fc93aa67373b2",
+				"isPro": false,
+				"level": "L1",
+				"title": "Time to Sleep"
+			}]
+		}]
+	}
+}
